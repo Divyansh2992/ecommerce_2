@@ -64,13 +64,6 @@ Below are visual previews of all images located in the `images/` folder used acr
 
 ## Getting started
 
-### Prerequisites
-
-- Node.js v18+ (recommended)
-- npm
-- MongoDB Atlas (recommended) or local MongoDB
-- (Optional) Cloudinary account for image uploads
-
 ### Local development setup
 
 1. Clone the repo and install dependencies
