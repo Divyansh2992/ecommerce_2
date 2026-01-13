@@ -54,7 +54,7 @@ A modern, full-stack e-commerce application featuring a Vite + React frontend an
 Below are visual previews of all images located in the `images/` folder used across the UI and documentation.
 
 | Preview | Description | Where Used |
-|---|---:|---|---|
+|---|---|---|
 | ![home_front](./images/home_front.png) | Main landing / hero screenshot | Home page / README banner |
 | ![men](./images/men.png) | Men collection preview image | Product collections / sections |
 | ![men_shop](./images/men_shop.png) | Product grid / shop preview | Collection/Product listing page |
